@@ -1,0 +1,15 @@
+#root {
+  margin: 0 auto;
+}
+.display-box{
+  display: block;
+}
+.list-elements {
+  list-style-type: none;
+  margin-left:0 ;
+  display: flex;
+}
+
+.list-elements span {
+  margin-right: 20px; 
+}
